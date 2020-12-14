@@ -1,0 +1,34 @@
+_repo: Katharine-von-Bora-Dr-Martin-Luther-s-Wife_63985
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Endlich, Emma A.
+    alias: Endlich, E. A.
+    gutenberg_agent_id: '52698'
+    url: http://www.gutenberg.org/2009/agents/52698
+creator:
+  author:
+    agent_name: Stein, Armin
+    aliases:
+    - Nietschmann, H. (Hermann)
+    - Nietschmann, Hermann Otto
+    birthdate: 1840
+    deathdate: 1929
+    gutenberg_agent_id: '48382'
+    url: http://www.gutenberg.org/2009/agents/48382
+    wikipedia: https://de.wikipedia.org/wiki/Hermann_Nietschmann
+description: ''
+gutenberg_issued: '2020-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63985'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Luther, Katharina von Bora, 1499-1552'
+- GITenberg
+title: 'Katharine von Bora: Dr. Martin Luther''s Wife'
+url: http://www.gutenberg.org/ebooks/63985
